@@ -20,15 +20,13 @@
     （网络请求返回数据）
      if response.code == 20000 {
         if let data = response.data {
-          if data.count>0 {
              let dataArr = data["data"] as! [[String: AnyObject]]
-             if dataArr.count>0 {
-                self.tableView.removeEmptyView()
+                if dataArr.count>0 {
+                   self.tableView.removeEmptyView()
                   （处理网络请求返回数据）
-                   }else{
-                   （无数据处理）
+                 }else{
+                  （无数据处理）
                     self.tableView.showEmptyViewWithType(emptyViewType: KTNoContentType.NoContentTypeOrder.rawValue)
-                    }
                  }
               }
            }
