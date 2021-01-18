@@ -42,7 +42,7 @@
 
 ## 效果图
 
-<img src="https://github.com/KeenTeam1990/KTTableView/blob/master/WechatIMG162.png" width="270" height="480"><img src="https://github.com/KeenTeam1990/KTTableView/blob/master/WechatIMG163.png" width="270" height="480">
+<img src="http://qn4175yyi.hb-bkt.clouddn.com/WechatIMG162.png" width="270" height="480"><img src="http://qn4175yyi.hb-bkt.clouddn.com/WechatIMG163.png" width="270" height="480">
 
 ## <a id="更多"></a>  更多 - More
 
