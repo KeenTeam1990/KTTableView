@@ -2,6 +2,7 @@
 
 ## <a id="KTTableView-Swift TableView配置"></a> 
 ```
+ （TableView配置）
     lazy var tableView: KTBaseTableView = {
         
         let tableV = KTBaseTableView.init(frame: CGRect(x: 0, y: 0, width: kWidth, height: kHeight-kBottomToolBarHeight), style: .grouped)
@@ -44,7 +45,7 @@
 ## 效果图
 
 <img src="http://qjyvam1s5.hd-bkt.clouddn.com/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202020-11-18%20at%2009.09.43.png" width="270" height="480">
-<img src="http://qjyvam1s5.hd-bkt.clouddn.com/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202020-11-18%20at%2009.10.05.png" width="270" height="480"> <img src="http://qjyvam1s5.hd-bkt.clouddn.com/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202020-11-18%20at%2009.09.51.png" width="270" height="480">
+<img src="http://qjyvam1s5.hd-bkt.clouddn.com/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202020-11-18%20at%2009.10.05.png" width="270" height="480">
 
 
 ## <a id="更多"></a>  更多 - More
@@ -56,4 +57,4 @@
 - 具体代码请下载项目  如果觉得喜欢的能给一颗小星星么!  ✨ 
 
 - [有兴趣可以加下创建的QQ群:812144991(因为工作很忙所以可能问问题没人回答!!)](//shang.qq.com/wpa/qunwpa?idkey=ebd8d6809c83b4d6b4a18b688621cb73ded0cce092b4d1f734e071a58dd37c26) <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=294005139&site=qq&menu=yes"><img border="0" src="" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
-- The MIT License (MIT)                  Copyright (c) 2018 KEENTEAM
+- The MIT License (MIT)                  Copyright (c) 2014 KEENTEAM
