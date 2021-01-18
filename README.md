@@ -45,7 +45,7 @@
 ## 效果图
 
 <img src="http://qjyvam1s5.hd-bkt.clouddn.com/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202020-11-18%20at%2009.09.43.png" width="270" height="480">
-<img src="http://qjyvam1s5.hd-bkt.clouddn.com/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202020-11-18%20at%2009.10.05.png" width="270" height="480">
+<img src="https://github.com/KeenTeam1990/KTTableView/blob/main/WechatIMG162.png" width="270" height="480">
 
 
 ## <a id="更多"></a>  更多 - More
