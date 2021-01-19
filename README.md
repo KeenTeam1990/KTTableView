@@ -1,8 +1,8 @@
 # KTTableView-Swift - 无数据无网络占位图
 
-## <a id="KTTableView-Swift TableView配置"></a> 
+## <a id="KTTableView-Swift TableView"></a> 
 ```
- （TableView配置）
+ （TableView）
     lazy var tableView: KTBaseTableView = {
         
         let tableV = KTBaseTableView.init(frame: CGRect(x: 0, y: 0, width: kWidth, height: kHeight-kBottomToolBarHeight), style: .grouped)
@@ -44,7 +44,7 @@
 
 <img src="http://qn4175yyi.hb-bkt.clouddn.com/WechatIMG162.png" width="270" height="480"><img src="http://qn4175yyi.hb-bkt.clouddn.com/WechatIMG162.png?e=1610944303&token=eREMZr73CoFfx2gJexjo0cj1wiA0y-yrGrLia9XA:dSiWtqsD_Lw2T5xvu7R_P_evcY8=" width="270" height="480">
 
-## <a id="更多"></a>  更多 - More
+## <a id="更多"></a> - More
 
 - 如果您发现了bug请尽可能详细地描述系统版本、手机型号和复现步骤等信息 提一个issue.
 
