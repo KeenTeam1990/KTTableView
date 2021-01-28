@@ -44,6 +44,8 @@
 
 <img src="http://qn4175yyi.hb-bkt.clouddn.com/WechatIMG162.png" width="300" height="480"><img src="http://qn4175yyi.hb-bkt.clouddn.com/WechatIMG162.png" width="270" height="480">
 
+![Screenshots](http://qn4175yyi.hb-bkt.clouddn.com/WechatIMG162.png)
+
 ## <a id="更多"></a> - More
 
 - 如果您发现了bug请尽可能详细地描述系统版本、手机型号和复现步骤等信息 提一个issue.
